@@ -1,0 +1,10 @@
+.styledFont {
+    background-color: yellow;
+    color: green;
+    outline: darkblue dotted;
+}
+#styledImage {
+border: solid orange;
+border-width: 10px;
+border-style: inset;
+}
