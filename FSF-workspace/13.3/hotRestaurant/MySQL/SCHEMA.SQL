@@ -1,0 +1,13 @@
+DROP DATABASE IF EXISTS restaurant_db;
+CREATE DATABASE restaurant_db;
+USE restaurant_db;
+
+CREATE TABLE reservations
+(
+id INT NOT NULL AUTO_INCREMENT,
+full_name VARCHAR(255) NOT NULL,
+email VARCHAR (255) DEFAULT NULL,
+phone BIGINT(10) DEFAULT NULL,
+unique_id VARCHAR(255) DEFAULT NULL,
+PRIMARY KEY (id)
+);
