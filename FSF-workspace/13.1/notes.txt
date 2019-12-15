@@ -1,8 +1,0 @@
-1.  node and express servers and routing are two of the most important concepts in the entire program.
-2.  sign up for pluralsight.com.  take their building blocks of express.js course.
-what is a server?  
-3.  server side code in action
-    a.  visiting a url and then being presended with an HTML page
-    b.  visiting an API endpoint.
-
- 
